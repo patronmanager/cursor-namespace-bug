@@ -6,7 +6,7 @@
     }
   ],
   "name": "cursor-namespace-bug",
-  "namespace": "",
+  "namespace": "PatronTicket",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "67.0"
 }
